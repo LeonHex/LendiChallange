@@ -29,7 +29,7 @@ You'll start with the app not showing any data
 
 ### Optional task: complete unit test in ./app/src/components/AppointmentSelect/Broker
 
-Leon's note:
+Leon's note: [09/06/2022]
 I spent 1 hour to complete this challenge with all tasks completed.
 
 The shared appt info is passed by props drill. The reason I chose to implement it this way is because this is a very easy app with only a bit of information that needs to be shared. The rendering tree is simple with only 2 layers as well.
